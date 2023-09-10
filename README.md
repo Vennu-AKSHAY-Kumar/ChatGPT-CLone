@@ -1,2 +1,1 @@
-# ChatGPT-CLone
- Designed and implemented a ChatGPT Clone using OpenAI, Flask, HTML, TailwindCSS, and MongoDB, showcasing skills in web development, AI integration, and database management.
+CodeWithHarry YouTube video source code for [ChatGPT clone:](https://www.youtube.com/watch?v=OAr6AIvH9VY)
